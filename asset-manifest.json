@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/UttamNath/static/css/main.52fce36d.css",
+    "main.js": "/UttamNath/static/js/main.52b61695.js",
+    "static/media/riseup.png": "/UttamNath/static/media/riseup.06d40f9b95ca9889f295.png",
+    "static/media/hsp.png": "/UttamNath/static/media/hsp.78e31daa0ec4e98fbd95.png",
+    "static/media/UttamNath.jpg": "/UttamNath/static/media/UttamNath.3b0fd18fe3b0fdeafead.jpg",
+    "static/media/day_dr.jpg": "/UttamNath/static/media/day_dr.783a1f274d57ba883f8c.jpg",
+    "static/media/riseup_app.jpg": "/UttamNath/static/media/riseup_app.2825a996015acc648c99.jpg",
+    "static/media/React.png": "/UttamNath/static/media/React.86c8d9eba03e29814d2a.png",
+    "static/media/PHP.png": "/UttamNath/static/media/PHP.4990580e9b615aeebb1f.png",
+    "static/media/Java.png": "/UttamNath/static/media/Java.ddf8676bd569fe01ab44.png",
+    "static/media/C.png": "/UttamNath/static/media/C.24a8f93854ab092f17a7.png",
+    "static/media/MySql.png": "/UttamNath/static/media/MySql.7d8d571e5629923eaf74.png",
+    "static/media/HTML.png": "/UttamNath/static/media/HTML.6e930594286d8afe4c79.png",
+    "static/media/CSS.png": "/UttamNath/static/media/CSS.463e319bad8e0edf1ef7.png",
+    "static/media/JavaScript.png": "/UttamNath/static/media/JavaScript.3dfb665e058d08c99f28.png",
+    "static/media/GoLang.svg": "/UttamNath/static/media/GoLang.7f7b78dfc70eb8da3bb6af11a5553282.svg",
+    "index.html": "/UttamNath/index.html",
+    "main.52fce36d.css.map": "/UttamNath/static/css/main.52fce36d.css.map",
+    "main.52b61695.js.map": "/UttamNath/static/js/main.52b61695.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52fce36d.css",
+    "static/js/main.52b61695.js"
+  ]
+}
