@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/UttamNath/static/css/main.52fce36d.css",
-    "main.js": "/UttamNath/static/js/main.ea55a7ce.js",
+    "main.css": "/UttamNath/static/css/main.450b9301.css",
+    "main.js": "/UttamNath/static/js/main.145a1056.js",
     "static/media/riseup.png": "/UttamNath/static/media/riseup.06d40f9b95ca9889f295.png",
     "static/media/hsp.png": "/UttamNath/static/media/hsp.78e31daa0ec4e98fbd95.png",
     "static/media/UttamNath.jpg": "/UttamNath/static/media/UttamNath.3b0fd18fe3b0fdeafead.jpg",
@@ -17,11 +17,11 @@
     "static/media/JavaScript.png": "/UttamNath/static/media/JavaScript.3dfb665e058d08c99f28.png",
     "static/media/GoLang.svg": "/UttamNath/static/media/GoLang.7f7b78dfc70eb8da3bb6af11a5553282.svg",
     "index.html": "/UttamNath/index.html",
-    "main.52fce36d.css.map": "/UttamNath/static/css/main.52fce36d.css.map",
-    "main.ea55a7ce.js.map": "/UttamNath/static/js/main.ea55a7ce.js.map"
+    "main.450b9301.css.map": "/UttamNath/static/css/main.450b9301.css.map",
+    "main.145a1056.js.map": "/UttamNath/static/js/main.145a1056.js.map"
   },
   "entrypoints": [
-    "static/css/main.52fce36d.css",
-    "static/js/main.ea55a7ce.js"
+    "static/css/main.450b9301.css",
+    "static/js/main.145a1056.js"
   ]
 }
