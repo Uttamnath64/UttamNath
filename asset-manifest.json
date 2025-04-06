@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6783594f.css",
+    "main.js": "/static/js/main.11c5e2f3.js",
+    "static/media/riseup.png": "/static/media/riseup.06d40f9b95ca9889f295.png",
+    "static/media/hsp.png": "/static/media/hsp.78e31daa0ec4e98fbd95.png",
+    "static/media/day_dr.jpg": "/static/media/day_dr.783a1f274d57ba883f8c.jpg",
+    "static/media/riseup_app.jpg": "/static/media/riseup_app.2825a996015acc648c99.jpg",
+    "static/media/React.png": "/static/media/React.86c8d9eba03e29814d2a.png",
+    "static/media/PHP.png": "/static/media/PHP.4990580e9b615aeebb1f.png",
+    "static/media/Java.png": "/static/media/Java.ddf8676bd569fe01ab44.png",
+    "static/media/MySql.png": "/static/media/MySql.7d8d571e5629923eaf74.png",
+    "static/media/C.png": "/static/media/C.cee270b37b6fe8b2a45b.png",
+    "static/media/Grafana.svg": "/static/media/Grafana.9b06b87b07fcc2efbea28c3da5c0e3c6.svg",
+    "static/media/HTML.png": "/static/media/HTML.6e930594286d8afe4c79.png",
+    "static/media/CSS.png": "/static/media/CSS.463e319bad8e0edf1ef7.png",
+    "static/media/JavaScript.png": "/static/media/JavaScript.3dfb665e058d08c99f28.png",
+    "static/media/Kubernetes.svg": "/static/media/Kubernetes.69f6c4411fc98e5e50dafe77f8ea8ea1.svg",
+    "static/media/GoLang.svg": "/static/media/GoLang.7f7b78dfc70eb8da3bb6af11a5553282.svg",
+    "static/media/Docker.svg": "/static/media/Docker.c1458ec6bc2dfadb44d064525c1d433c.svg",
+    "static/media/HomeIcon.svg": "/static/media/HomeIcon.50674e17ba980d0eae5150def5ad952a.svg",
+    "index.html": "/index.html",
+    "main.6783594f.css.map": "/static/css/main.6783594f.css.map",
+    "main.11c5e2f3.js.map": "/static/js/main.11c5e2f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6783594f.css",
+    "static/js/main.11c5e2f3.js"
+  ]
+}
