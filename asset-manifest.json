@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UttamNath/static/css/main.608dc4d8.css",
-    "main.js": "/UttamNath/static/js/main.f475beb3.js",
+    "main.js": "/UttamNath/static/js/main.95e0ed7b.js",
     "static/media/riseup.png": "/UttamNath/static/media/riseup.06d40f9b95ca9889f295.png",
     "static/media/hsp.png": "/UttamNath/static/media/hsp.78e31daa0ec4e98fbd95.png",
     "static/media/day_dr.jpg": "/UttamNath/static/media/day_dr.783a1f274d57ba883f8c.jpg",
@@ -21,10 +21,10 @@
     "static/media/HomeIcon.svg": "/UttamNath/static/media/HomeIcon.50674e17ba980d0eae5150def5ad952a.svg",
     "index.html": "/UttamNath/index.html",
     "main.608dc4d8.css.map": "/UttamNath/static/css/main.608dc4d8.css.map",
-    "main.f475beb3.js.map": "/UttamNath/static/js/main.f475beb3.js.map"
+    "main.95e0ed7b.js.map": "/UttamNath/static/js/main.95e0ed7b.js.map"
   },
   "entrypoints": [
     "static/css/main.608dc4d8.css",
-    "static/js/main.f475beb3.js"
+    "static/js/main.95e0ed7b.js"
   ]
 }
