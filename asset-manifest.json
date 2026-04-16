@@ -1,30 +1,18 @@
 {
   "files": {
-    "main.css": "/UttamNath/static/css/main.608dc4d8.css",
-    "main.js": "/UttamNath/static/js/main.95e0ed7b.js",
+    "main.css": "/UttamNath/static/css/main.ea30cbd5.css",
+    "main.js": "/UttamNath/static/js/main.80734eef.js",
     "static/media/riseup.png": "/UttamNath/static/media/riseup.06d40f9b95ca9889f295.png",
     "static/media/hsp.png": "/UttamNath/static/media/hsp.78e31daa0ec4e98fbd95.png",
     "static/media/day_dr.jpg": "/UttamNath/static/media/day_dr.783a1f274d57ba883f8c.jpg",
     "static/media/riseup_app.jpg": "/UttamNath/static/media/riseup_app.2825a996015acc648c99.jpg",
-    "static/media/React.png": "/UttamNath/static/media/React.86c8d9eba03e29814d2a.png",
-    "static/media/PHP.png": "/UttamNath/static/media/PHP.4990580e9b615aeebb1f.png",
-    "static/media/Java.png": "/UttamNath/static/media/Java.ddf8676bd569fe01ab44.png",
-    "static/media/MySql.png": "/UttamNath/static/media/MySql.7d8d571e5629923eaf74.png",
-    "static/media/C.png": "/UttamNath/static/media/C.cee270b37b6fe8b2a45b.png",
-    "static/media/Grafana.svg": "/UttamNath/static/media/Grafana.9b06b87b07fcc2efbea28c3da5c0e3c6.svg",
-    "static/media/HTML.png": "/UttamNath/static/media/HTML.6e930594286d8afe4c79.png",
-    "static/media/CSS.png": "/UttamNath/static/media/CSS.463e319bad8e0edf1ef7.png",
-    "static/media/JavaScript.png": "/UttamNath/static/media/JavaScript.3dfb665e058d08c99f28.png",
-    "static/media/Kubernetes.svg": "/UttamNath/static/media/Kubernetes.69f6c4411fc98e5e50dafe77f8ea8ea1.svg",
-    "static/media/GoLang.svg": "/UttamNath/static/media/GoLang.7f7b78dfc70eb8da3bb6af11a5553282.svg",
-    "static/media/Docker.svg": "/UttamNath/static/media/Docker.c1458ec6bc2dfadb44d064525c1d433c.svg",
-    "static/media/HomeIcon.svg": "/UttamNath/static/media/HomeIcon.50674e17ba980d0eae5150def5ad952a.svg",
     "index.html": "/UttamNath/index.html",
-    "main.608dc4d8.css.map": "/UttamNath/static/css/main.608dc4d8.css.map",
-    "main.95e0ed7b.js.map": "/UttamNath/static/js/main.95e0ed7b.js.map"
+    "static/media/HomeIcon.svg": "/UttamNath/static/media/HomeIcon.50674e17ba980d0eae5150def5ad952a.svg",
+    "main.ea30cbd5.css.map": "/UttamNath/static/css/main.ea30cbd5.css.map",
+    "main.80734eef.js.map": "/UttamNath/static/js/main.80734eef.js.map"
   },
   "entrypoints": [
-    "static/css/main.608dc4d8.css",
-    "static/js/main.95e0ed7b.js"
+    "static/css/main.ea30cbd5.css",
+    "static/js/main.80734eef.js"
   ]
 }

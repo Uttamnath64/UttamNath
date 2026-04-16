@@ -1,7 +1,7 @@
 {
-  "short_name": "Uttam Nath",
-  "name": "I'm 'Uttam Nath', a Full-Stack Developer skilled in Golang, PHP, MySQL, and Docker. Passionate about building scalable web applications and backend services.",
-  "icons": [
+  "short_name": "Uttam Nath | Golang Developer",
+  "name": "I'm Uttam Nath, Software Engineer with 3+ years of experience in Golang, building scalable microservices, REST APIs, and distributed systems. Skilled in Docker, Kubernetes, Kafka, and Redis, with a strong focus on performance optimization and clean architecture. Experienced in developing fault-tolerant, production-ready applications and improving system efficiency. Driven by continuous learning and solving real-world engineering challenges.",
+    "icons": [
     {
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
